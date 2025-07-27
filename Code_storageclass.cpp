@@ -1,6 +1,8 @@
-//Dev Darj
-//24070123033
-//Batch: A2
+// UPDESH ARORA
+// PRN - 24070123124
+// ENTC B-3
+// EXPERIMENT 01
+// DIFFERENT TYPES OF DATATYPES AND THEIR BIT SIZE
 
 #include<iostream>
 using namespace std;
@@ -9,7 +11,6 @@ int a = 4;
 
 void func(){
     register int a = 0;
-  //Cannot access the address of variable.
     a++;
     cout << "Size of variable: " << sizeof(a) << endl;
     cout << "The variable is :" << a << endl;
