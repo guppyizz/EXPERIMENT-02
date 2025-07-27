@@ -10,7 +10,7 @@ using namespace std;
 int a = 4;
 
 void func(){
-    register int a = 0;
+    int a = 0;
     a++;
     cout << "Size of variable: " << sizeof(a) << endl;
     cout << "The variable is :" << a << endl;
