@@ -1,3 +1,17 @@
+# 💻 C++ EXPERIMENTS
+
+A curated collection of C++ programs for practice and learning, designed with simplicity and clarity in mind.
+
+---
+
+## 👨‍🎓 Student Information
+
+- **Name:** Updesh Arora  
+- **PRN:** 24070123124  
+- **Branch:** ENTC  
+- **Class:** B-3
+
+---
 # 🧪 C++ Experiment 2: Study and Implementation of Data Types & Storage Classes
 
 ## 🎯 Aim
