@@ -2,7 +2,7 @@
 // PRN - 24070123124
 // ENTC B-3
 // EXPERIMENT 02
-// DIFFERENT TYPES OF DATATYPES AND THEIR BIT SIZE
+//STORAGE CLASS
 
 #include<iostream>
 using namespace std;
